@@ -2,24 +2,18 @@
 **`Desenvolvedora FullStack`**
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Em início de carreira na área de **Desenvolvimento de Software**  
+💻 Em início de carreira na área de **Desenvolvimento Full Stack**  
 🚀 Buscando evoluir constantemente e conquistar minha primeira oportunidade como **estagiária em tecnologia**
 
 ---
 
-## 👩🏽‍💻 Sobre mim
+## 📚 Cursos Realizados
 
-Me chamo Yasmim Caroline, tenho 19 anos e sou de Angra dos Reis - RJ. Sou uma pessoa curiosa, organizada e focada em aprendizado contínuo.  
-Atualmente estou construindo minha base em programação, praticando lógica e desenvolvendo projetos simples para consolidar o conhecimento na prática.
-
-
----
-
-## 📚 O que estou estudando atualmente
-
-- HTML5 & CSS3  
-- JavaScript  
-- Fundamentos de Desenvolvimento Web  
+- Desenvolvimento Web Full Stack (Udemy)
+- Linux (Curso em Vídeo) 
+- Git e GitHub (Curso em Vídeo) 
+- Python (Curso em Vídeo) 
+- Lógica de Programação (Udemy)
 
 ---
 ### 🤖 Linguagens e Tecnologias
