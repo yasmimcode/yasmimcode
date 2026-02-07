@@ -64,14 +64,9 @@
 
 ---
 
-## 📌 Projetos
-
-📂 Meus repositórios contêm:
-- Exercícios de lógica de programação  
-- Projetos de estudo em Python  
-- Projetos simples com HTML, CSS e JavaScript  
-
-*(Estou sempre adicionando novos projetos conforme avanço nos estudos!)*
-
----
+## 📌 Estudando no Momento:
+- HTML5 e CSS3
+- JavaScript
+- SQL
+- PHP
 
