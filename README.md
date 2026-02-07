@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou a Yasmim Caroline
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack em formação!`**
 
 🎓 Estudante de **Engenharia de Software**  
 💻 Em início de carreira na área de **Desenvolvimento Full Stack**  
