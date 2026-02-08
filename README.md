@@ -68,5 +68,5 @@
 - HTML5 e CSS3
 - JavaScript
 - SQL
-- PHP
+- PYTHON
 
