@@ -14,6 +14,7 @@
 - Git e GitHub (Curso em Vídeo) 
 - Python (Curso em Vídeo) 
 - Lógica de Programação (Udemy)
+- Programação Orientada a Objetos em Java (Curso em Vídeo)
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -67,6 +68,7 @@
 ## 📌 Estudando no Momento:
 - HTML5 e CSS3
 - JavaScript
+- Java
 - SQL
 - Python
 
