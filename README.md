@@ -66,9 +66,9 @@
 ---
 
 ## 📌 Estudando no Momento:
-- HTML5 e CSS3
 - JavaScript
 - Java
+- Spring Boot
 - SQL
-- Python
+- React
 
